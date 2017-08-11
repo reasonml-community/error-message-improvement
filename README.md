@@ -1,4 +1,4 @@
-# error-message-improvement
+# Reason/BuckleScript Error Message Improvement
 
 Repo of issues that catalogues the compiler errors you'd like to see explained better in Reason.
 
